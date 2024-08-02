@@ -1,0 +1,2 @@
+# ormcalisma
+ORM Anlama çalışmaları
